@@ -1,5 +1,6 @@
 # Bird Species Observation Analysis
 This project involves analyzing bird species observation data using Python. Key aspects include:
+
 Data Cleaning & Preprocessing: Ensuring high-quality and consistent data.
 Exploratory Data Analysis (EDA): Gaining insights into patterns and trends.
 Data Visualization: Creating informative plots to represent findings.
